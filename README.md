@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
