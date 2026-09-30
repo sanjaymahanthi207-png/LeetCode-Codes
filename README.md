@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |
