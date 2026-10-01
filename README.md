@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
 |  |
@@ -325,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3345-smallest-divisible-digit-product-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
