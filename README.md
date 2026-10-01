@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
