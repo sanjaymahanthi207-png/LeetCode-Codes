@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3498-reverse-degree-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
 |  |
@@ -348,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
