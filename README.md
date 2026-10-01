@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0061-rotate-list) |
+| [0707-design-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 ## Number Theory
