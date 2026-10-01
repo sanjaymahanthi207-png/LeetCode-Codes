@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
