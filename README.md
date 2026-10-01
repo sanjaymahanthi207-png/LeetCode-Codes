@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
 ## Enumeration
 |  |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
