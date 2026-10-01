@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0940-distinct-subsequences-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0940-distinct-subsequences-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
