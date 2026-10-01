@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0283-move-zeroes) |
 | [0454-4sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
