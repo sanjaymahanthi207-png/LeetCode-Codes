@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -572,5 +576,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
