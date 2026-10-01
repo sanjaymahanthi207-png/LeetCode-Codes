@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sliding Window
