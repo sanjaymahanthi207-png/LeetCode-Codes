@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0409-longest-palindrome) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0454-4sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
