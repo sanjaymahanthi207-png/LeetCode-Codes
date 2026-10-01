@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0283-move-zeroes) |
