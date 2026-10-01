@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0100-same-tree) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
