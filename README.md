@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0835-image-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0061-rotate-list) |
+| [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
