@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0345-reverse-vowels-of-a-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
