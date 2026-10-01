@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0344-reverse-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0409-longest-palindrome) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0076-minimum-window-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
