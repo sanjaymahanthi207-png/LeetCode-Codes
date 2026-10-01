@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1510-stone-game-iv) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0060-permutation-sequence) |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0835-image-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0835-image-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -463,10 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -479,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1510-stone-game-iv) |
 ## Geometry
 |  |
