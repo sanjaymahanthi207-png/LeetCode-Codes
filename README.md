@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0115-distinct-subsequences) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
