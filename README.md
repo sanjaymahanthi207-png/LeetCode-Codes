@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -359,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
