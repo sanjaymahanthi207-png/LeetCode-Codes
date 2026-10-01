@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3524-find-x-value-of-array-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0055-jump-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
