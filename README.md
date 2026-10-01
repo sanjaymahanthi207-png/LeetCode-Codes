@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
+| [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3524-find-x-value-of-array-i) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
 ## Enumeration
@@ -394,4 +396,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
