@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
