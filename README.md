@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0836-rectangle-overlap) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0118-pascals-triangle) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0100-same-tree) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0100-same-tree) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
