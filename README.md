@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0052-n-queens-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Linked List
 |  |
 | ------- |
