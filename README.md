@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0090-subsets-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
@@ -656,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
