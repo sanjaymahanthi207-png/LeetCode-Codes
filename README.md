@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0072-edit-distance) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -233,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0071-simplify-path) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Divide and Conquer
 |  |
