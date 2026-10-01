@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
