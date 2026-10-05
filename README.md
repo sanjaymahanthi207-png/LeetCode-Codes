@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0876-middle-of-the-linked-list) |
