@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0409-longest-palindrome) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Linked List
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
