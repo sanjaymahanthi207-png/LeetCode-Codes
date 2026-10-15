@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
 ## Enumeration
 |  |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0141-linked-list-cycle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
