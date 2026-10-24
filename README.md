@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3498-reverse-degree-of-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2409-count-days-spent-together](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
