@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
 | [0835-image-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1672-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -725,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
