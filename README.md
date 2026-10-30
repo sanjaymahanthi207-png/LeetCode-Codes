@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -613,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -647,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -756,4 +763,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
