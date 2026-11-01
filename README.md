@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0836-rectangle-overlap) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
