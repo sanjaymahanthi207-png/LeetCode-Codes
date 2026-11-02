@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0096-unique-binary-search-trees) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0728-self-dividing-numbers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0836-rectangle-overlap) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0622-design-circular-queue) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0242-valid-anagram) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
