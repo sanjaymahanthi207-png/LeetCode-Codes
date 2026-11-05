@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1550-three-consecutive-odds) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
