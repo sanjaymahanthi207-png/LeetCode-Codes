@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1882-process-tasks-using-servers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/0023-merge-k-sorted-lists) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
