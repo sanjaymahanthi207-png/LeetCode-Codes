@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sanjaymahanthi207-png/LeetCode-Codes/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
